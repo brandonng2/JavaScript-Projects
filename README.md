@@ -1,5 +1,4 @@
-# AP-Computer-Science-JavaScript-Projects
- Brandon Ng's JavaScript Projects:
+# JavaScript Projects
  1. Astroids
  2. FlappyBird
  3. HighScore Pong
