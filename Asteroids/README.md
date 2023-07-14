@@ -4,6 +4,16 @@ A fully functional space-themed multidirectional shooter arcade video game imple
 
 The code uses the Processing library ```processing.core.PApplet``` to run the game
 
+## Control
+
+This game can be controlled using the following keys:
+- W: Move forward
+- A: Move left
+- S: Move backward
+- D: Move right
+- Spacebar: Shoot a laser
+- F: Hyperspeed (Teleport to a random position)
+
 ## Visual
 https://github.com/brandonng2/JavaScript-Projects/assets/96798414/4906d1e9-f226-4971-aeab-3ea70338946a
 
