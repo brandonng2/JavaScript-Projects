@@ -4,7 +4,7 @@ A fully functional space-themed multidirectional shooter arcade video game imple
 
 The code uses the Processing library ```processing.core.PApplet``` to run the game
 
-## Control
+## Controls
 
 This game can be controlled using the following keys:
 - W: Move forward
