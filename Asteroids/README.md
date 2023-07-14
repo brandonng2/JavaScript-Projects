@@ -1,6 +1,6 @@
 # Asteroids Game
 
-A fully functional space-themed multidirectional shooter arcade video game implemented using Java. In this classic game, players pilot a spaceship navigating through an asteroid field, dodging and destroying asteroids
+A fully functional space-themed multidirectional shooter arcade video game implemented using Java. In this game, the user pilot a spaceship navigating through an asteroid field, dodging and destroying asteroids
 
 The code uses the Processing library ```processing.core.PApplet``` to run the game
 
